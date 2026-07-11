@@ -7,3 +7,7 @@ struct	s_student
 	double	stature;
 	double	weight;
 };
+
+typedef struct s_student	t_student;
+
+void	student_print(t_student *data);
