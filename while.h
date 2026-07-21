@@ -4,4 +4,4 @@
 
 void	ft_putnbr2(int nb);
 
-#endif
+#Endif
